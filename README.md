@@ -1,15 +1,11 @@
-# Used_Cars_Data_Analysis
-Exploratory Data Analysis and Data Preprocessing on Used Cars Dataset using Python (Pandas, NumPy, Matplotlib, Seaborn)
----
-
-## 📌 Project Overview
+##  Project Overview
 This project focuses on performing Exploratory Data Analysis (EDA) and data preprocessing on a Used Cars dataset sourced from Kaggle.  
 
 The objective of this project is to clean, transform, and analyze the dataset to extract meaningful insights related to car pricing, fuel types, mileage, engine specifications, and other important features.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Import and explore the dataset
 - Perform data cleaning and handle missing values
@@ -33,7 +29,7 @@ The objective of this project is to clean, transform, and analyze the dataset to
 
 ---
 
-## 📂 Dataset Information
+## Dataset Information
 
 The dataset contains information about used cars including:
 
@@ -50,7 +46,7 @@ Dataset Source: Kaggle
 
 ---
 
-## 📊 Project Workflow
+##  Project Workflow
 
 ### 1️⃣ Data Loading
 - Imported necessary libraries
@@ -84,7 +80,7 @@ Dataset Source: Kaggle
 
 ---
 
-## 📈 Key Insights
+## Key Insights
 
 - Certain fuel types show higher resale value.
 - Car prices decrease significantly with age.

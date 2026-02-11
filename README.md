@@ -18,7 +18,7 @@ The objective of this project is to clean, transform, and analyze the dataset to
 
 ---
 
-## 🛠 Technologies & Libraries Used
+## Technologies & Libraries Used
 
 - Python
 - Pandas

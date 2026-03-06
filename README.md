@@ -115,6 +115,3 @@ The dataset contains information about used cars including:
 
 ---
 
-<p align="center">
-© 2026 Annaya Singh | Data Analytics Project Portfolio
-</p>
